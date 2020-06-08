@@ -11,7 +11,7 @@ def translate (g,word):
     #     return data[n]
     # else:
     word=word.lower()
-        # return wordjkjkkjcffffd
+        # return word
 
     if word in data :
        k=print('the meaning of %s is'%g)
